@@ -1,5 +1,5 @@
 <?php
-$identificacion= $_POST ["identificacion"];
+$identificacion= $_POST ['identificacion'];
 $nomapellidos= $_POST ['nomapellido'];
 $cargo= $_POST ['cargo'];
 $salario= $_POST ['salario'];
